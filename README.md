@@ -15,5 +15,7 @@ https://guides.codepath.com/android/Basic-Todo-App-Tutorial • http://www.java2
 9)Tailoring app: https://github.com/amide-inc/MaxTailorAndroidApp/find/master
 
 10)GST calculator: https://docplayer.net/140602721-Gst-rating-assist-using-android-studio.html
+   or
+10) gst https://github.com/harishk97/app.github.io/blob/master/app/src/main/java/mad/gstcalculator/MainActivity.java
 
 11)SMS: https://www.tutorialspoint.com/android/android_sending_sms.htm
